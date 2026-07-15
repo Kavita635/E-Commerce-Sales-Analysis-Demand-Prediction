@@ -1,5 +1,13 @@
 # E-Commerce Sales Analysis & Demand Prediction
 
+# 🌐 Live Demo
+
+🚀 **Streamlit App**
+https://e-commerce-sales-analysis-demand-prediction-z3pqdanhbpc8o28gsn.streamlit.app/
+
+💻 **GitHub Repository**
+https://github.com/Kavita635/E-Commerce-Sales-Analysis-Demand-Prediction
+
 ## Project Overview
 
 This project focuses on analyzing historical e-commerce sales data and predicting future product demand using Machine Learning. The system helps businesses understand sales trends, identify high-demand products, and make inventory decisions based on predicted demand.
